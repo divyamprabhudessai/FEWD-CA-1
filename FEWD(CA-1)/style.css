@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
+
+*{
+    font-family: 'Roboto','Nunito Sans';
+}
+body{
+    background-image:url("https://raw.githubusercontent.com/Kalvium-Program/netflix-clone-boilerplate/main/assets/Title-Image.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+a{
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+span{
+    margin-left: 1000px;
+
+}
+
+#net-2{
+    width: 20px;
+    margin-top: 280px;
+    margin-left: 30px;
+    
+}
+
+.div1{
+    display: flex;
+    flex-direction: column;
+    
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+#p1{
+    color: white;
+   
+    
+}
+ 
+#p2{
+    color: white;
+    font-size: 150px;
+    margin-top: 4px;
+    margin-left: 20px;
+    
+}
+
+#p3{
+    color: white;
+    font-size: 20px;
+}
+
+.seeagain{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    width: max-content;
+}
+
+.top{
+    background-color: black;
+}
+
+.top10{
+    display: flex;
+    justify-content: space-around;
+}
+
+.trendingnow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.scifi{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: black;
+}
